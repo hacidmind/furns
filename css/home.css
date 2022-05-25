@@ -1,0 +1,243 @@
+body {
+    scroll-behavior: smooth;
+    overflow-x: hidden;
+}
+
+.text-brown {
+    color: #C19A6B;
+}
+
+.btn-brown {
+    background-color: #C19A6B;
+}
+
+.btn-brown:hover {
+    background-color: #C19A6B;
+    color: white;
+}
+
+.furns-h1 {
+    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+    font-weight: 500;
+    font-size: 30px;
+}
+
+/* Hero */
+
+/* Hero End */
+
+/* Main 1 */
+.gs {
+    padding: 10px 50px;
+}
+
+.m1-h3 {
+    margin-top: 50px;
+    font-family: 'Open Sans', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 27px;
+}
+
+.m1-h1 {
+    font-family: 'Bebas Neue', cursive;
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 40px;
+    letter-spacing: 0.07em !important;
+}
+
+.m1-p {
+    font-family: 'Open Sans', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 27px;
+}
+
+/* Main 1 END*/
+
+/* Main 2 */
+
+.boi {
+    font-family: 'Open Sans', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 27px;
+    letter-spacing: 0.07em;
+    /* color: #C19A6B; */
+}
+
+.ideal {
+    font-family: 'Bebas Neue', cursive;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 27px;
+    letter-spacing: 0.07em;
+    color: #1D1D18;
+}
+
+.item-1 {
+    font-family: 'Open Sans', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 27px;
+    letter-spacing: 0.07em;
+    color: #1D1D18;
+}
+
+.fude {
+    font-family: 'Open Sans', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 27px;
+    letter-spacing: 0.07em;
+    color: #1D1D18;
+}
+
+.money {
+    font-family: 'Open Sans', sans-serif;
+    font-style: normal !important;
+    font-weight: 600;
+    font-size: 18px !important;
+    line-height: 27px;
+    letter-spacing: 0.07em;
+
+    color: #EB0101;
+}
+
+.cart-div {
+    position: relative;
+    margin-right: 0;
+}
+
+.cart-img {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+}
+
+.cart-img-2 {
+    position: absolute;
+    top: 12px;
+    left: 18px;
+}
+
+.cart-btn {
+    margin: 0;
+    width: 97%;
+}
+
+.cart-border {
+    border: 1px solid #C19A6B;
+}
+
+
+/* Main 2 End */
+
+
+/* Main 3 */
+.main-3 {
+    background-color: #F1F1F1;
+}
+
+.ocr {
+    font-family: 'Open Sans', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 27px;
+    letter-spacing: 0.07em;
+    color: #C19A6B;
+    margin-top: 10px;
+}
+
+.mot {
+    font-family: 'Bebas Neue', cursive;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 27px;
+    letter-spacing: 10px;
+    color: #1D1D18;
+    margin-bottom: 20px;
+}
+
+
+.aa {
+    font-family: 'Open Sans', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 27px;
+    letter-spacing: 0.07em;
+    color: #1D1D18;
+}
+
+.st {
+    font-family: 'Open Sans', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 27px;
+    letter-spacing: 0.07em;
+    color: #1D1D18;
+}
+
+
+/* Main 3 END */
+
+/* Footer */
+footer {
+    background-color: #1D1D18;
+}
+
+.furns-footer {
+    font-family: 'Bebas Neue', cursive;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 36px;
+    color: #C19A6B;
+}
+
+footer ul li {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    list-style-position: inside;
+}
+
+footer div input[type=email] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    border-radius: 2px;
+    box-sizing: border-box;
+}
+
+.input {
+    position: relative;
+}
+
+.input-btn {
+    position: absolute;
+    top: 20px;
+    right: 5px;
+    width: 120px;
+    height: 27px;
+    border-radius: 2px !important;
+    text-align: center;
+    line-height: 20px;
+
+    background-image: url('../images/arrow.png');
+    background-position: 100px 10px;
+    background-repeat: no-repeat;
+    /* padding: 12px 20px 12px 40px; */
+
+}
